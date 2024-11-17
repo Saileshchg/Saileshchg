@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sailesh Chugh</h1>
 <h3 align="center">Full Stack Developer | Building scalable, high-performance web applications with expertise in backend, frontend, and cloud technologies for impactful products.</h3>
 
-- 💬 Ask me about **Backend, Frontend, Databases,Testing.**
+- 💬 Ask me about **Backend, Frontend, Databases, Testing.**
 
 - 📫 How to reach me **saileshchg@gmail.com**
 
